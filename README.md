@@ -6,7 +6,7 @@ Gronostajowa 7
 
 Email: martyna.krzykawska.at.uj.edu.pl
 
-## Education:
+## 🎓 Education:
 
 October 2013
 Ph.D. (summa cum laude), Bacteriochlorin based photodynamic anticancer therapy. Selected effects on cells, vasculature and immunity, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
@@ -23,7 +23,7 @@ AGH University of Science and Technology, Biomedical Engineering, complementary 
 2004-2009
 Jagiellonian University, Faculty of Biology and Earth Science, masters studies in biology, specialization in biophysics
 
-## Career:
+## 🔨 Career:
 
 2017 – present
 Associate Professor, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
@@ -37,7 +37,7 @@ Postdoctoral Scholar, Department of Surgery, Baylor Collage of Medicine, Houston
 2014-2015
 Postdoctoral Scholar, Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
 
-## Courses taught:
+## 👩‍🏫 Courses taught:
 
 Physiology and pathology of hypoxia (ID: WBt-BT348)
 
@@ -51,7 +51,7 @@ In vivo veritas - Practical Course in Animal Research (ID: WBT-MBT2-23E amd WBT-
 
 Natural Philosophy (ID: WBT-BCH520)
 
-## Fellowships:
+## 🤝 Fellowships:
 
 January 2022 – June 2022
 The Kosciuszko Foundation Scholarship Chicago University in prof. H. Halpern group.
@@ -65,7 +65,7 @@ Postdoctoral Scholar in Chicago University in prof. H. Halpern group. Topics: El
 February – May 2012
 Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (CT26) in vivo and in vitro experiments involving photodynamic therapy, Chemistry Department, Coimbra University, Portugal.
 
-## Grants:
+## 💰 Grants:
 
 ### Principal Investigator:
 
@@ -101,7 +101,7 @@ Very Low Frequency EPR Imaging for In Vivo Physiology (NIH/NIBIB, P41 EB002034-1
 2010-2013
 Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2010-2013, 60 303)
 
-## Professional activities:
+## 🤚 Professional activities:
 
 ### Oral presentations:
 
