@@ -6,9 +6,7 @@ Gronostajowa 7
 
 Email: martyna.krzykawska.at.uj.edu.pl
 
-[Publications](https://github.com/krzykawska/digital-cv/Publications.md) 
-
-[ORCID](https://orcid.org/0000-0003-2038-8105)
+[Publications](https://github.com/krzykawska/digital-cv/Publications.md) [ORCID](https://orcid.org/0000-0003-2038-8105)
 
 ## 🎓 Education:
 
