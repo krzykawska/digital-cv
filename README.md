@@ -129,7 +129,7 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 ### Poster presentations:
 
-### Honors and awards:
+## 🏆 Honors and awards:
 
 Polish Ministry of Science and Higher Education Scholarship for Outstanding Young Scientist for years 2018-2021
 
