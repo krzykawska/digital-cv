@@ -105,27 +105,27 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 ### Oral presentations:
 
-XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro (12.02.2021)
+- XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro (12.02.2021)
 
-2015 In Vivo Oxygen Imaging Workshop, The University of Chicago, Chicago, USA: Cancer development and treatment – oxygen as a driving factor (07.22-23.2015)
+- 2015 In Vivo Oxygen Imaging Workshop, The University of Chicago, Chicago, USA: Cancer development and treatment – oxygen as a driving factor (07.22-23.2015)
 
-Center for EPR Imaging In Vivo Physiology, The University of Chicago, Chicago, USA: O2 image-guided radiation therapy, Ductal oxygenation with EPR imaging, Beyond Cancer: Approaches to brain imaging (04.30-05.01.2015)
+- Center for EPR Imaging In Vivo Physiology, The University of Chicago, Chicago, USA: O2 image-guided radiation therapy, Ductal oxygenation with EPR imaging, Beyond Cancer: Approaches to brain imaging (04.30-05.01.2015)
 
-EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: Biomarkers after Bacteriohlorin-based Photodynamic Therapy against Cancer (05.7-11.2014)
+- EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: Biomarkers after Bacteriohlorin-based Photodynamic Therapy against Cancer (05.7-11.2014)
 
-The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013)
+- The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013)
 
-LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: F2BMet-PDT effects on tumor vasculature (02.16-21. 2013)
+- LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: F2BMet-PDT effects on tumor vasculature (02.16-21. 2013)
 
-9th International Symposium on Photodynamic Therapy and Photodiagnosis in Clinical Practice and 4th International Meeting of the European Platform for Photodynamic Medicine, Brixen/Bressanone, Italy: Quantitiv measurements of phototherapeutic response of murine tumor vessel (10.16-20. 2012)
+- 9th International Symposium on Photodynamic Therapy and Photodiagnosis in Clinical Practice and 4th International Meeting of the European Platform for Photodynamic Medicine, Brixen/Bressanone, Italy: Quantitiv measurements of phototherapeutic response of murine tumor vessel (10.16-20. 2012)
 
-I Scientific meeting - Between Science, Chorzow, Poland: Oxygenation and blood perfusion in tumors after bacteriochlorin-based photodynamic therapy show the effectiveness of PDT (5. 10. 2012)
+- I Scientific meeting - Between Science, Chorzow, Poland: Oxygenation and blood perfusion in tumors after bacteriochlorin-based photodynamic therapy show the effectiveness of PDT (5. 10. 2012)
 
-V Medicinal Chemistry Conference, Lublin, Poland: Effects of bacteriochlorin based photodynamic therapy on tumor physiology (09.13-15.2012)
+- V Medicinal Chemistry Conference, Lublin, Poland: Effects of bacteriochlorin based photodynamic therapy on tumor physiology (09.13-15.2012)
 
-XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: Effects of Bacteriochlorin Based Photodynamic Therapy on Tumor Structure (02.4-8. 2012)
+- XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: Effects of Bacteriochlorin Based Photodynamic Therapy on Tumor Structure (02.4-8. 2012)
 
-International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy: Synthetic Bacteriochlorin derivatives in phototherapy of murine tumors (09.9-10. 2011)
+- International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy: Synthetic Bacteriochlorin derivatives in phototherapy of murine tumors (09.9-10. 2011)
 
 ### Poster presentations:
 
