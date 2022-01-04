@@ -30,7 +30,7 @@ Jagiellonian University, Faculty of Biology and Earth Science, masters studies i
 ## 🔨 Career:
 
 2017 – present
-Associate Professor, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
+Assistant Professor, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
 
 2014-2017
 Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
