@@ -6,6 +6,8 @@ Gronostajowa 7
 
 Email: martyna.krzykawska.at.uj.edu.pl
 
+ (https:github.com/krzykawska/digital-cv/Publications.md)
+
 ## 🎓 Education:
 
 October 2013
