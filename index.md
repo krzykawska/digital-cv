@@ -1,6 +1,6 @@
 **Department of Biophysics and Cancer Biology
 Faculty of Biochemistry, Biophysics and Biotechnology
-Jagiellonian University**
+Jagiellonian University**  
 Gronostajowa 7
 30-387 Krakow, Poland
 
