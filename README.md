@@ -45,7 +45,7 @@ Postdoctoral Scholar, Dept. of Radiation and Cellular Oncology, The University o
 24.04.2014 – 10.09.2014  
 Maternity leave, birth of the first child
 
-**2014-2017**
+**2014-2017**  
 Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
 
 ## 👩‍🏫 Courses taught:
@@ -120,16 +120,16 @@ Jagiellonian University Grant for Young Scientists 2011/12: BMN 4/2011
 
 ### Researcher in international grants:
 
-2015-2017
+2015-2017  
 Physical Sciences in Oncology Center: Center for Transport Oncophysics (NIH, U54 CA143837)
 
-2014-2015
+2014-2015  
 Radiation Biology of EPR Oxygen Images (NIH, R01 CA98575)
 
-2014-2015
+2014-2015  
 Very Low Frequency EPR Imaging for In Vivo Physiology (NIH/NIBIB, P41 EB002034-15)
 
-2010-2013
+2010-2013  
 Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2010-2013, 60 303)
 
 ## 🤚 Professional activities:
