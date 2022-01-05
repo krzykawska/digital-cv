@@ -1,7 +1,7 @@
-**Department of Biophysics and Cancer Biology
-Faculty of Biochemistry, Biophysics and Biotechnology
+**Department of Biophysics and Cancer Biology  
+Faculty of Biochemistry, Biophysics and Biotechnology  
 Jagiellonian University**  
-Gronostajowa 7
+Gronostajowa 7  
 30-387 Krakow, Poland
 
 Email: martyna.krzykawska.at.uj.edu.pl
