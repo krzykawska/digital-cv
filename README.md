@@ -153,13 +153,15 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 
 - XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro (12.02.2021)
 
+- XXV EFMC International Symposium on Medicinal Chemistry, Ljubljana, Slovenia: Biotransport and biodistribution of [60]fullerene derivative in murine orthotopic model of breast adenocarcinoma modulated by non-invasive hyperthermia, (2-6.09.2018), *selected*
+
 - 2015 In Vivo Oxygen Imaging Workshop, The University of Chicago, Chicago, USA: Cancer development and treatment – oxygen as a driving factor (07.22-23.2015)
 
 - Center for EPR Imaging In Vivo Physiology, The University of Chicago, Chicago, USA: O2 image-guided radiation therapy, Ductal oxygenation with EPR imaging, Beyond Cancer: Approaches to brain imaging (04.30-05.01.2015)
 
-- EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: Biomarkers after Bacteriohlorin-based Photodynamic Therapy against Cancer (05.7-11.2014)
+- EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: Biomarkers after Bacteriohlorin-based Photodynamic Therapy against Cancer (05.7-11.2014), *selected*
 
-- The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013)
+- The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013), *selected*
 
 - LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: F2BMet-PDT effects on tumor vasculature (02.16-21.2013)
 
