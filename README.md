@@ -27,11 +27,14 @@ Jagiellonian University, Faculty of Biology and Earth Science, masters studies i
 
 ## 🔨 Career:
 
+02.03.2019 – 30.08.2019
+Maternity leave, birth of the third child
+
 2017 – present
 Assistant Professor, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
 
-2014-2017
-Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
+13.11.2016 – 27.05.2017
+Maternity leave, birth of the second child
 
 2015-2017
 Postdoctoral Scholar, Department of Surgery, Baylor Collage of Medicine, Houston, USA
@@ -39,19 +42,25 @@ Postdoctoral Scholar, Department of Surgery, Baylor Collage of Medicine, Houston
 2014-2015
 Postdoctoral Scholar, Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
 
+24.04.2014 – 10.09.2014
+Maternity leave, birth of the first child
+
+2014-2017
+Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
+
 ## 👩‍🏫 Courses taught:
 
-Physiology and pathology of hypoxia (ID: WBt-BT348)
+Physiology and pathology of hypoxia (ID: WBt-BT348) - lecture 30 h/year
 
-Biophysical Aspects of the Biology of Neoplasms (ID: WBt-BT167)
+Biophysical Aspects of the Biology of Neoplasms (ID: WBt-BT167) lecture 10 h/year
 
-Challenges of modern biophysics (WBT-BFMK5.6)
+Challenges of modern biophysics (WBT-BFMK5.6) - lecture 4 h and seminar 4h/year
 
-Biophysics (ID: WBl-IZ-NE/017 and WBNZ-962)
+Biophysics (ID: WBl-IZ-NE/017 and WBNZ-962) - seminar 10 h/year
 
-In vivo veritas - Practical Course in Animal Research (ID: WBT-MBT2-23E amd WBT-BT350)
+In vivo veritas - Practical Course in Animal Research (ID: WBT-MBT2-23E amd WBT-BT350) - seminar 2 h and laboratory practice 25 h/year in Polish and English
 
-Natural Philosophy (ID: WBT-BCH520)
+Natural Philosophy (ID: WBT-BCH520) - seminar 20 h/year
 
 ## 🤝 Fellowships:
 
@@ -66,6 +75,22 @@ Postdoctoral Scholar in Chicago University in prof. H. Halpern group. Topics: El
 
 February – May 2012
 Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (CT26) in vivo and in vitro experiments involving photodynamic therapy, Chemistry Department, Coimbra University, Portugal.
+
+## 🏆 Honors and awards:
+
+2018 - Group Award from Rector of the Jagiellonian University for scientific achievements
+
+2018-2021 Polish Ministry of Science and Higher Education Scholarship for Outstanding Young Scientist
+
+2014 Translational Medicine Malopolska Center Sholarship
+
+2013-2014 Polish Ministry of Science and Higher Education Scholarship for Ph.D. students for 2013/14 academic year
+
+2012-2013 Scholarships for the Best Grad Student at Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
+
+2011-2012 Scholarships for the Best Grad Student at Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
+
+2010-2011 Scholarships for the Best Grad Student at Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
 
 ## 💰 Grants:
 
@@ -105,6 +130,25 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 ## 🤚 Professional activities:
 
+### Organisation of scientyfic meetings
+
+16-21.02.2013
+LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland; around 70 participants
+
+10-12.02.2021
+XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting, around 70 participants
+
+### Institutional responsibilites
+
+2018 - present
+organizer of Scientists’ Night in Malopolska – a science popularizing event open to public (a few hundred attendants)
+
+2021 - present
+member of the Faculty secondary school teaching program (Malopolska Educational Cloud), author of two teaching scenarios for online classes
+
+2021 - present
+main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
+
 ### Oral presentations:
 
 - XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro (12.02.2021)
@@ -117,25 +161,19 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 - The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013)
 
-- LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: F2BMet-PDT effects on tumor vasculature (02.16-21. 2013)
+- LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: F2BMet-PDT effects on tumor vasculature (02.16-21.2013)
 
 - 9th International Symposium on Photodynamic Therapy and Photodiagnosis in Clinical Practice and 4th International Meeting of the European Platform for Photodynamic Medicine, Brixen/Bressanone, Italy: Quantitiv measurements of phototherapeutic response of murine tumor vessel (10.16-20. 2012)
 
-- I Scientific meeting - Between Science, Chorzow, Poland: Oxygenation and blood perfusion in tumors after bacteriochlorin-based photodynamic therapy show the effectiveness of PDT (5. 10. 2012)
+- I Scientific meeting - Between Science, Chorzow, Poland: Oxygenation and blood perfusion in tumors after bacteriochlorin-based photodynamic therapy show the effectiveness of PDT (5.10.2012)
 
 - V Medicinal Chemistry Conference, Lublin, Poland: Effects of bacteriochlorin based photodynamic therapy on tumor physiology (09.13-15.2012)
 
-- XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: Effects of Bacteriochlorin Based Photodynamic Therapy on Tumor Structure (02.4-8. 2012)
+- XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: Effects of Bacteriochlorin Based Photodynamic Therapy on Tumor Structure (02.4-8.2012)
 
-- International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy: Synthetic Bacteriochlorin derivatives in phototherapy of murine tumors (09.9-10. 2011)
+- International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy: Synthetic Bacteriochlorin derivatives in phototherapy of murine tumors (09.9-10.2011)
 
 ### Poster presentations:
 
-## 🏆 Honors and awards:
 
-Polish Ministry of Science and Higher Education Scholarship for Outstanding Young Scientist for years 2018-2021
-
-Polish Ministry of Science and Higher Education Scholarship for Ph.D. students for 2013/14 academic year
-
-Translational Medicine Malopolska Center Sholarship for 2014 year
 
