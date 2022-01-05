@@ -177,35 +177,35 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 
 ### Poster presentations:
 
-26-31.07.2015 57th Rocky Mountain Conference on Magnetic Resonance, Snowbird, UT, USA
-title: Center for Electron Paramagnetic Resonance Imaging In Vivo Physiology - tissue pO2 as a determinant of tumor biology 
-authors: Boris Epel, Martyna Krzykawska-Serda, Matt Maggio, Eugene Barth,  Subramanian V. Sundramoorthy, Charles A. Pelizzari, Casey Frankenberger, Marsha Rosner,  Conzen Suzanne, Marta Zamora, Gregory Kaczmar i Howard J. Halpern
-title: Full Spectrum Rapid Scan 4D Spectral-Spatial Imaging with nitroxides at 250 MHz
+26-31.07.2015 57th Rocky Mountain Conference on Magnetic Resonance, Snowbird, UT, USA  
+title: Center for Electron Paramagnetic Resonance Imaging In Vivo Physiology - tissue pO2 as a determinant of tumor biology   
+authors: Boris Epel, Martyna Krzykawska-Serda, Matt Maggio, Eugene Barth,  Subramanian V. Sundramoorthy, Charles A. Pelizzari, Casey Frankenberger, Marsha Rosner,  Conzen Suzanne, Marta Zamora, Gregory Kaczmar i Howard J. Halpern  
+title: Full Spectrum Rapid Scan 4D Spectral-Spatial Imaging with nitroxides at 250 MHz  
 authors: Mark Tseytlin ,Boris Epel, Martyna Krzykowska-Serda, Matt Maggio, Valery K. Khramtzov, Gareth R. Eaton, Sandra S. Eaton, Gerald M. Rosen, Joseph P. Y. Kao i Howard J. Halpern
 
-03.08.2015 World Molecular Imaging Congress  
-title: Quantitative In Vivo pO2 Images with Electron Paramagnetic Resonance and Cancer 
+03.08.2015 World Molecular Imaging Congress    
+title: Quantitative In Vivo pO2 Images with Electron Paramagnetic Resonance and Cancer   
 authors:  Howard J. Halpern, Boris Epel, Martyna Krzykawska-Serda, Martyna Elas,  Zhi-Pei Liang, Anthony G. Christodoulou, Victor Tormyshev, Marsha R. Rosner, Casey Frankenberger
 
-5.10.2015 EPR Biodose Meeting  
-title: EPR oxygen imaging, breast cancer 
-authors: Howard J. Halpern, Boris Epel, Martyna Krzykawska-Serda, Martyna Elas, Gregory Karczmar, Victor Tormyshev, Marsh R. Rosner, Casey Frankenberger
+5.10.2015 EPR Biodose Meeting    
+title: EPR oxygen imaging, breast cancer   
+authors: Howard J. Halpern, Boris Epel, Martyna Krzykawska-Serda, Martyna Elas, Gregory Karczmar, Victor Tormyshev, Marsh R. Rosner, Casey Frankenberger  
 
-2.12.2015 RSNA 2015 
-title: Transient hypoxia with accelerated EPR pO2 images using a low-rank tensor/navigator projection image model 
-authors: Boris Epel, Anthony G. Christodoulou, Martyna Krzykawska-Serda, Victor Tormyshev, Zhi-Pei Liang, Howard J. Halpern
+2.12.2015 RSNA 2015   
+title: Transient hypoxia with accelerated EPR pO2 images using a low-rank tensor/navigator projection image model   
+authors: Boris Epel, Anthony G. Christodoulou, Martyna Krzykawska-Serda, Victor Tormyshev, Zhi-Pei Liang, Howard J. Halpern  
 
-7-10.07.2012 European Association for Cancer Research 22, Barcelone, Spain
-title: Non-invasive Prognostic Tools for Phototherapeutic Response in Murine Tumors 
-authors: M. Krzykawska,  J. M. Dąbrowski, M. Szczygieł, G. Stochel, L. G. Arnaut, M. M. Pereira, K. Urbańska, M. Elas
+7-10.07.2012 European Association for Cancer Research 22, Barcelone, Spain  
+title: Non-invasive Prognostic Tools for Phototherapeutic Response in Murine Tumors   
+authors: M. Krzykawska,  J. M. Dąbrowski, M. Szczygieł, G. Stochel, L. G. Arnaut, M. M. Pereira, K. Urbańska, M. Elas  
 
-4-8.02.2012 XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane
-title: Amphiphilic fluorinated photosensitizers as Mulitifunctional Photodynamic Therapeutic and Near-Infrared Tumor-Imaging Agents 
-authors: Janusz M. Dąbrowski, Agnieszka Adamowicz, Martyna Krzykawska, Luis G. Arnaut, M. M. Pereira, Krystyna Urbańska, Grażyna Stochel
+4-8.02.2012 XXXIXth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane  
+title: Amphiphilic fluorinated photosensitizers as Mulitifunctional Photodynamic Therapeutic and Near-Infrared Tumor-Imaging Agents   
+authors: Janusz M. Dąbrowski, Agnieszka Adamowicz, Martyna Krzykawska, Luis G. Arnaut, M. M. Pereira, Krystyna Urbańska, Grażyna Stochel  
 
-21-24.09.2011 6th European Meeting for Vascular biology & Medicine, Krakow, Poland
-title: Vascular vs. Cellular Targeting of Anti-tumor Photodynamic Therapy using Bacteriochlorin Derivative
-autorzy: Agnieszka Bem, Martyna Krzykawska, Janusz M. Dąbrowsk, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas
-title: Vascular Targeting of Bacteriochlorin Photodynamic Therapy of Cancer
-authors: Martyna Krzykawska, Janusz M. Dąbrowski, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas
+21-24.09.2011 6th European Meeting for Vascular biology & Medicine, Krakow, Poland  
+title: Vascular vs. Cellular Targeting of Anti-tumor Photodynamic Therapy using Bacteriochlorin Derivative  
+autorzy: Agnieszka Bem, Martyna Krzykawska, Janusz M. Dąbrowsk, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas  
+title: Vascular Targeting of Bacteriochlorin Photodynamic Therapy of Cancer  
+authors: Martyna Krzykawska, Janusz M. Dąbrowski, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas  
 
