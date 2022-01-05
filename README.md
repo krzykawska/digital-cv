@@ -92,9 +92,9 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 2010-2011 Scholarships for the Best Grad Student at Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
 
-11.02.2012 The 1st place in the 3rd edition of the Scientific Salon of the PhD Students Society of the Jagiellonian University for the presentation of the paper: Light in the dark - a new way to fight cancr
+11.02.2012 The 1^st^ place in the 3rd edition of the Scientific Salon of the PhD Students Society of the Jagiellonian University for the presentation of the paper: Light in the dark - a new way to fight cancr
 
-5.10.2012 Thehe 1st prize for the oral presentation presented at the 1st National Conference of Students and PhD Students "Between the Sciences - Congress of Physicists and Chemists"
+5.10.2012 The 1^st^ prize for the oral presentation presented at the 1st National Conference of Students and PhD Students "Between the Sciences - Congress of Physicists and Chemists"
 
 ## 💰 Grants:
 
