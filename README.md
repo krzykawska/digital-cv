@@ -27,22 +27,22 @@ Jagiellonian University, Faculty of Biology and Earth Science, masters studies i
 
 ## 🔨 Career:
 
-02.03.2019 – 30.08.2019
+02.03.2019 – 30.08.2019  
 Maternity leave, birth of the third child
 
-**2017 – present**
+**2017 – present**  
 Assistant Professor, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
 
-13.11.2016 – 27.05.2017
+13.11.2016 – 27.05.2017  
 Maternity leave, birth of the second child
 
-**2015-2017**
+**2015-2017**  
 Postdoctoral Scholar, Department of Surgery, Baylor Collage of Medicine, Houston, USA
 
-**2014-2015**
+**2014-2015**  
 Postdoctoral Scholar, Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
 
-24.04.2014 – 10.09.2014
+24.04.2014 – 10.09.2014  
 Maternity leave, birth of the first child
 
 **2014-2017**
@@ -100,22 +100,22 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 ### Principal Investigator:
 
-2019-2023
+2019-2023  
 National Science Centre, OPUS15: UMO-2018/29/B/NZ5/02954
 
-2018-2019
+2018-2019  
 Jagiellonian University Grant for Young Scientists 2018/19: BMN 4/2011
 
-2012-2017
+2012-2017  
 National Science Centre, Preludium2: DEC-2011/03/N/NZ4/02019
 
-2013-2014
+2013-2014  
 Jagiellonian University Grant for Young Scientists 2013/14: BMN 1/2013)
 
-2012-2013
+2012-2013  
 Jagiellonian University Grant for Young Scientists 2012/13: BMN 5/2012
 
-2011-2012
+2011-2012  
 Jagiellonian University Grant for Young Scientists 2011/12: BMN 4/2011
 
 ### Researcher in international grants:
@@ -136,24 +136,24 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 ### Organisation of scientyfic meetings
 
-10-12.02.2021
+10-12.02.2021  
 XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting, around 70 participants
 
-16-21.02.2013
+16-21.02.2013  
 LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland; around 70 participants
 
-12-14.12.2008
+12-14.12.2008  
 Nationwide Interdisciplinary Student Conference "Man in the Universe". Around the thoughts of Michał Heller; around 50 participants, *main organizer*
 
 ### Institutional responsibilites
 
-2018 - present
+ 2018 - present  
 organizer of Scientists’ Night in Malopolska – a science popularizing event open to public (a few hundred attendants)
 
-2021 - present
+2021 - present  
 member of the Faculty secondary school teaching program (Malopolska Educational Cloud), author of two teaching scenarios for online classes
 
-2021 - present
+2021 - present  
 main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
 
 ### Oral presentations:
@@ -202,7 +202,7 @@ authors: Boris Epel, Martyna Krzykawska-Serda, Matt Maggio, Eugene Barth,  Subra
 title: *Full Spectrum Rapid Scan 4D Spectral-Spatial Imaging with nitroxides at 250 MHz*  
 authors: Mark Tseytlin ,Boris Epel, Martyna Krzykowska-Serda, Matt Maggio, Valery K. Khramtzov, Gareth R. Eaton, Sandra S. Eaton, Gerald M. Rosen, Joseph P. Y. Kao i Howard J. Halpern
 
-03.08.2015 **World Molecular Imaging Congress**    
+3.08.2015 **World Molecular Imaging Congress**    
 title: *Quantitative In Vivo pO2 Images with Electron Paramagnetic Resonance and Cancer*   
 authors:  Howard J. Halpern, Boris Epel, Martyna Krzykawska-Serda, Martyna Elas,  Zhi-Pei Liang, Anthony G. Christodoulou, Victor Tormyshev, Marsha R. Rosner, Casey Frankenberger
 
