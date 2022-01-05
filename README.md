@@ -92,6 +92,10 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 2010-2011 Scholarships for the Best Grad Student at Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
 
+11.02.2012 The 1st place in the 3rd edition of the Scientific Salon of the PhD Students Society of the Jagiellonian University for the presentation of the paper: Light in the dark - a new way to fight cancr
+
+5.10.2012 Thehe 1st prize for the oral presentation presented at the 1st National Conference of Students and PhD Students "Between the Sciences - Congress of Physicists and Chemists"
+
 ## 💰 Grants:
 
 ### Principal Investigator:
@@ -132,11 +136,14 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 ### Organisation of scientyfic meetings
 
+10-12.02.2021
+XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting, around 70 participants
+
 16-21.02.2013
 LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland; around 70 participants
 
-10-12.02.2021
-XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting, around 70 participants
+12-14.12.2008
+Nationwide Interdisciplinary Student Conference "Man in the Universe". Around the thoughts of Michał Heller; around 50 participants, *main organizer*
 
 ### Institutional responsibilites
 
@@ -175,6 +182,18 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 
 - International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy: Synthetic Bacteriochlorin derivatives in phototherapy of murine tumors (09.9-10.2011)
 
+- National conference On the border of biology and chemistry, Jamrozowa Polana, Poland: PDT based on new halogenated bacteriochlorins – in vitro and in vivo studies (24-27.04.2010), *selected*
+
+- National Interdisciplinary Student Conference on Time Dimensions, Krakow, Poland: Time in biology, or about the molecular clock (11-12.12.2009)  
+
+- Nationwide Interdisciplinary Student Conference "Man in the Universe". Around the thoughts of Michał Heller, Kraków, Poland: The atomized man and the man reunited - that is, about man as a subject of science research (12-14.12.2008)
+
+- 10th Jubilee National Intercollegiate Scientific Seminar in the series Discovering the Universe entitled: Two beginnings: the universe - life, Kazimierz Dolny on the Vistula, Poland: Life's problems - how the discovery of the origins of life influences its definition (28-30.11.2008)
+
+- Interdisciplinary Student Scientific Conference of Spirit and Matter, Krakow, Poland: Nucleotide versus byte - that is, information processing in computers and living organisms (16-18.05.2008)
+
+- Intercollegiate Scientific Seminar in the Cognition of the Universe IX cycle: Artificial life. Artificial Intelligence, Kazimierz Dolny on the Vistula River: A living computer - how you can generate the behavior of living organisms on your own computer (8-9.12.2007)
+
 ### Poster presentations:
 
 26-31.07.2015 57th Rocky Mountain Conference on Magnetic Resonance, Snowbird, UT, USA  
@@ -205,7 +224,35 @@ authors: Janusz M. Dąbrowski, Agnieszka Adamowicz, Martyna Krzykawska, Luis G. 
 
 21-24.09.2011 6th European Meeting for Vascular biology & Medicine, Krakow, Poland  
 title: Vascular vs. Cellular Targeting of Anti-tumor Photodynamic Therapy using Bacteriochlorin Derivative  
-autorzy: Agnieszka Bem, Martyna Krzykawska, Janusz M. Dąbrowsk, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas  
+authors: Agnieszka Bem, Martyna Krzykawska, Janusz M. Dąbrowsk, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas  
 title: Vascular Targeting of Bacteriochlorin Photodynamic Therapy of Cancer  
 authors: Martyna Krzykawska, Janusz M. Dąbrowski, Grażyna Stochel, Luis G. Arnaut, Mariette. M. Pereira, Krystyna Urbańska, Martyna Elas  
+
+9-10.09.2011 International Workshop “Molecular Pathways in the Response of Tumors to Photodynamic Therapy”, Udine, Italy  
+title: Water-solube, halogenated chlorin and bacteriochlorin derivatives as efficient photosensitizers for photodynamic therapy  
+authors: J. Dabrowski, L. Arnaut, M. Pereira, M. Krzykawska, K. Urbanska, S. Simoes, G. Stochel  
+
+10-14.05.2011 13th International Photodynamic Association World Congress, Innsbruck, Austria 
+title: Noninvasive oxygen and perfusion measurements in tumors after PDT  
+authors: M. Krzykawska, K. Soczek, B. Kalinowska, J.M. Dabrowski, G. Stochel, L.G. Arnaut, M.M. Pereira, K. Urbanska, M. Elas  
+title: Mechanistic studies on the anicancer activity of novel amphiphilic halogenated bacteriochlorins 
+authors: J. Dabrowski, L. Arnaut, M. Pereira, M. Krzykawska, K. Urbanska, S. Simoes, G. Stochel  
+
+12-16.02.2011 XXXVIIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland  
+title:Comparative in Vitro and in Vivo Studies on Long-Wavelength Photosensitizers Derived from Hydrophylic, Halogenated, Stable Chlorin and Bacteriochlorin  
+authors: Janusz M. Dabrowski, Martyna Krzykawska, Luis. G. Arnaut, Mariette. M. Pereira, Martyna Elas, Krystyna Urbanska, Grazyna Stochel  
+title: Noninvasive Measurement of Oxygen and Blood Perfusion in Tumor After PDT  
+authors: Martyna Krzykawska, K. Soczek, B. Kalinowska, J. M. Dąbrowski, G. Stochel, L. G. Arnaut, M. M. Pereira, K. Urbańska, M. Elas  
+
+6-9.10.2010 8th International Symposium on Photodynamic Therapy and Photodiagnosis in Clinical Practice, Brixen, Italy  
+title: Oxygen monitoring in murine tumours treated with bacteriochlorin PDT  
+authors: Martyna Krzykawska, K. Soczek, B. Kalinowska, K. Szabla, J. M. Dąbrowski, G. Stochel, L. G. Arnaut, M. M. Pereira, K. Urbańska, M. Elas  
+title: Photostable halogenated NIR absorbing bacteriochlorins overcome the resistance of melanoma to  photodynamic therapy  
+authors: Janusz M. Dąbrowski, L. G. Arnaut, M. M. Pereira, M. Krzykawska, K. Urbańska, M. Elas, G. Stochel  
+
+4-7.10.2010 VIIIth International Workshop on EPR(ESR) in Biology and Medicine, Kraków, Poland  
+title: Oxygen monitoring in PDT-treated murine tumors  
+authors: M. Krzykawska, K.Soczek, B.Kalinowska, K.Szabla, J.Dąbrowski, G.Stochel, .G.Arnaut, M.Pereira, K. Urbańska, M.Elas  
+ 
+
 
