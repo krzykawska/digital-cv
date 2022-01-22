@@ -7,6 +7,7 @@ Gronostajowa 7
 E-mail: martyna.krzykawska at uj.edu.pl
 
 📰 [Publications](https://krzykawska.github.io/Publication/)  
+
 🤓 [ORCID](https://orcid.org/0000-0003-2038-8105) 🖥️ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55859010600) 📈 [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=en&hl=en&user=x6LolB4AAAAJ&sortby=pubdate&alert_preview_top_rm=2)
 
 ## 🎓 Education:
@@ -258,5 +259,6 @@ authors: M. Krzykawska, K.Soczek, B.Kalinowska, K.Szabla, J.Dąbrowski, G.Stoche
 
 
 
-📰 [Publications](https://krzykawska.github.io/Publication/)  
+📰 [Publications](https://krzykawska.github.io/Publication/)    
+
 🤓 [ORCID](https://orcid.org/0000-0003-2038-8105) 🖥️ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55859010600) 📈 [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=en&hl=en&user=x6LolB4AAAAJ&sortby=pubdate&alert_preview_top_rm=2)
