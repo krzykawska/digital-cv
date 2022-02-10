@@ -29,7 +29,7 @@ Jagiellonian University, Faculty of Biology and Earth Science, masters studies i
 
 ## 🔨 Career:
 
-**2022**  
+**2022 - present**  
 Visiting Scholar (6 months), Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
 
 02.03.2019 – 30.08.2019  
