@@ -30,7 +30,7 @@ Jagiellonian University, Faculty of Biology and Earth Science, masters studies i
 ## 🔨 Career:
 
 **2022 - present**  
-Visiting Scholar (6 months) and consultant, Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
+Visiting Scholar (6 months) and consultant (present), Dept. of Radiation and Cellular Oncology, The University of Chicago, Chicago, USA
 
 02.03.2019 – 30.08.2019  
 Maternity leave, birth of the third child
