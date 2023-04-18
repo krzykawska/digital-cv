@@ -105,6 +105,9 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 ### Principal Investigator:
 
+2023-2027
+National Science Centre, OPUS23: UMO-2022/45/B/NZ5/01695
+
 2019-2023  
 National Science Centre, OPUS15: UMO-2018/29/B/NZ5/02954
 
@@ -162,6 +165,8 @@ member of the Faculty secondary school teaching program (Malopolska Educational 
 main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
 
 ### Oral presentations:
+
+- XIIth EPR Workshop, Krakow, Poland: Hypoxia evaluation during development of Ductal Carcinoma In Situ (DCIS) in mice by Electron Paramagnetic Resonance Imaging, (10.10.2023)
 
 - XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: *Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro* (12.02.2021)
 
