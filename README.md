@@ -105,7 +105,7 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 ### Principal Investigator:
 
-2023-2027
+2023-2027  
 National Science Centre, OPUS23: UMO-2022/45/B/NZ5/01695
 
 2019-2023  
