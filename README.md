@@ -166,9 +166,11 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 
 ### Oral presentations:
 
-- XIIth EPR Workshop, Krakow, Poland: Hypoxia evaluation during development of Ductal Carcinoma In Situ (DCIS) in mice by Electron Paramagnetic Resonance Imaging, (10.10.2023)
+- EPR 2023: International Conference on EPR Spectroscopy and Imaging of Biological Systems: *Oxygen partial pressure dynamic as a marker of chemotherapy efficiency – in vivo study on OxyChip and murine pancreatic cancer*, (24.05.2023), **selected**  
 
-- XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: *Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro* (12.02.2021)
+- XIIth EPR Workshop, Krakow, Poland: *Hypoxia evaluation during development of Ductal Carcinoma In Situ (DCIS) in mice by Electron Paramagnetic Resonance Imaging*, (10.10.2022)
+
+- XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: *Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro*, (12.02.2021)
 
 - XXV EFMC International Symposium on Medicinal Chemistry, Ljubljana, Slovenia: *Biotransport and biodistribution of [60]fullerene derivative in murine orthotopic model of breast adenocarcinoma modulated by non-invasive hyperthermia*, (2-6.09.2018), **selected**
 
