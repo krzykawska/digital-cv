@@ -160,13 +160,13 @@ Nationwide Interdisciplinary Student Conference "Man in the Universe". Around th
 
 ### Institutional responsibilites
 
- 2018 - present  
+ 2018 - 2024 
 organizer of Scientists’ Night in Malopolska – a science popularizing event open to public (a few hundred attendants)
 
-2021 - present  
+2021 - 2024  
 member of the Faculty secondary school teaching program (Malopolska Educational Cloud), author of two teaching scenarios for online classes
 
-2021 - present  
+2021 - 2024  
 main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
 
 ### Oral presentations:
