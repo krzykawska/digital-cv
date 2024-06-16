@@ -12,6 +12,9 @@ E-mail: martyna.krzykawska at uj.edu.pl
 
 ## 🎓 Education:
 
+**May 2024**
+**Habilitation** A new perspective on imaging methods for planning and conducting multifactorial cancer treatment, Jagiellonian University
+
 **October 2013**
 **Ph.D.** (*summa cum laude*), Bacteriochlorin based photodynamic anticancer therapy. Selected effects on cells, vasculature and immunity, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
 
@@ -54,6 +57,8 @@ Maternity leave, birth of the first child
 Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Krakow, Poland
 
 ## 👩‍🏫 Courses taught:
+
+*Radiation Biophysics* (ID:WBT-BFMK2-3.2) - lecture 8 h/year; seminar 9 h/year
 
 *Physiology and pathology of hypoxia* (ID: WBt-BT348) - lecture 30 h/year
 
@@ -207,6 +212,8 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 - Intercollegiate Scientific Seminar in the Cognition of the Universe IX cycle: *Artificial life. Artificial Intelligence, Kazimierz Dolny on the Vistula River: A living computer - how you can generate the behavior of living organisms on your own computer* (8-9.12.2007)
 
 ### Poster presentations:
+
+**should be updated**
 
 26-31.07.2015 **57th Rocky Mountain Conference on Magnetic Resonance**, Snowbird, UT, USA  
 title: *Center for Electron Paramagnetic Resonance Imaging In Vivo Physiology - tissue pO2 as a determinant of tumor biology*   
