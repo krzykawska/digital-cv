@@ -90,6 +90,8 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 ## 🏆 Honors and awards:
 
+- 2024 - Group Award from Rector of the Jagiellonian University for organizational activities 
+
 - 2018 - Group Award from Rector of the Jagiellonian University for scientific achievements
 
 - 2018-2021 Polish Ministry of Science and Higher Education Scholarship for Outstanding Young Scientist
