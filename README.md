@@ -58,6 +58,8 @@ Research Assistant, Faculty of Biochemistry, Biophysics and Biotechnology, Jagie
 
 ## 👩‍🏫 Courses taught:
 
+*Cognitive tools in scientific work - how to verify facts and use AI tools* (ID: WBT-BFMK1.10) - discussion class, 18 h/year
+
 *Radiation Biophysics* (ID:WBT-BFMK2-3.2) - lecture 8 h/year; seminar 9 h/year
 
 *Physiology and pathology of hypoxia* (ID: WBt-BT348) - lecture 30 h/year
