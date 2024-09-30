@@ -160,7 +160,10 @@ Nationwide Interdisciplinary Student Conference "Man in the Universe". Around th
 
 ### Institutional responsibilites
 
- 2018 - 2024 
+2024 - present  
+coordinator of the Faculty of Biochemistry, Biophysics and Biotechnology of the Jagiellonian University for cooperation with Cogiteon  
+
+2018 - 2024 
 organizer of Scientists’ Night in Malopolska – a science popularizing event open to public (a few hundred attendants)
 
 2021 - 2024  
