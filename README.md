@@ -12,22 +12,22 @@ E-mail: martyna.krzykawska at uj.edu.pl
 
 ## 🎓 Education:
 
-**May 2024**
+**May 2024**  
 **Habilitation** A new perspective on imaging methods for planning and conducting multifactorial cancer treatment, Jagiellonian University
 
-**October 2013**
+**October 2013**  
 **Ph.D.** (*summa cum laude*), Bacteriochlorin based photodynamic anticancer therapy. Selected effects on cells, vasculature and immunity, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
 
-**2009-2013**
+**2009-2013**  
 Jagiellonian University, Faculty of Biochemistry, Biophysics and Biotechnology, Department of Biophysics, Ph.D. studies, group of professor K. Urbanska with cooperation with group of professor G. Stochel, Chemistry Department
 
-**June 2009**
+**June 2009**  
 **Master of Science**, Light biostimulation of melanoma cells, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University
 
-**2008-2010**
+**2008-2010**  
 AGH University of Science and Technology, Biomedical Engineering, complementary studies
 
-**2004-2009**
+**2004-2009**  
 Jagiellonian University, Faculty of Biology and Earth Science, masters studies in biology, specialization in biophysics
 
 ## 🔨 Career:
