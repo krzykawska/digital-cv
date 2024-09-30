@@ -153,27 +153,27 @@ Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2
 
 ### Organisation of scientyfic meetings
 
-10-12.02.2021  
+10-12.02.2021    
 XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting, around 70 participants
 
-16-21.02.2013  
+16-21.02.2013    
 LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland; around 70 participants
 
-12-14.12.2008  
+12-14.12.2008    
 Nationwide Interdisciplinary Student Conference "Man in the Universe". Around the thoughts of Michał Heller; around 50 participants, *main organizer*
 
 ### Institutional responsibilites
 
-2024 - present  
+2024 - present    
 coordinator of the Faculty of Biochemistry, Biophysics and Biotechnology of the Jagiellonian University for cooperation with Cogiteon  
 
-2018 - 2024 
+2018 - 2024   
 organizer of Scientists’ Night in Malopolska – a science popularizing event open to public (a few hundred attendants)
 
-2021 - 2024  
+2021 - 2024    
 member of the Faculty secondary school teaching program (Malopolska Educational Cloud), author of two teaching scenarios for online classes
 
-2021 - 2024  
+2021 - 2024    
 main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
 
 ### Oral presentations:
