@@ -177,7 +177,16 @@ member of the Faculty secondary school teaching program (Malopolska Educational 
 main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
 
 ### Oral presentations:
+- The 63rd Annual Rocky Mountain Conference on Magnetic Resonance (RMCMR), 45th EPR Symposium: *Tumor Oxygenation Dynamics in Murine Orthotopic Pancreatic Cancer: Insights from in vivo Multimodal Therapy*, (August 4-8, 2024, Copper Mountain, Utah, USA), **selected**
 
+- Gliwice Scientific Meeting: *Tumor hypoxia imaging*, (21-22 Nov 2024), **invited**  
+
+-  JS2024: 5th Jagiellonian Symposium on Advances in Particle Physics and Medicine: *Design, Synthesis, and Evaluation of Novel Gold Nanorod-Based Theranostic Agents for Anticancer Therapy*, (7.07.2024, Kraków), **selected**
+ 
+- Chemistry towards Biology: *Advanced Gold Nanorod-Based Theranostics: A Multimodal Approach to Combat Pancreatic Ductal Adenocarcinoma*, (1-4 July 2024, Kraków), **selected**  
+  
+- 51th Winter School of the Faculty of Biochemistry, Biophysics and Biotechnology: *Department of Biophysics and Cancer Biology: Tumor microenvironment studies* (oral presentation - team)  
+  
 - EPR 2023: International Conference on EPR Spectroscopy and Imaging of Biological Systems: *Oxygen partial pressure dynamic as a marker of chemotherapy efficiency – in vivo study on OxyChip and murine pancreatic cancer*, (24.05.2023), **selected**  
 
 - XIIth EPR Workshop, Krakow, Poland: *Hypoxia evaluation during development of Ductal Carcinoma In Situ (DCIS) in mice by Electron Paramagnetic Resonance Imaging*, (10.10.2022)
