@@ -90,6 +90,8 @@ Erasmus scientific training in prof. L. Arnaut’s group. Topics: colon cancer (
 
 ## 🏆 Honors and awards:
 
+- 2026 - Distinction for Outstanding Teaching Achievements, Jagiellonian University, awarded for the 2024/2025 academic year     
+ 
 - 2024 - Group Award from Rector of the Jagiellonian University for organizational activities 
 
 - 2018 - Group Award from Rector of the Jagiellonian University for scientific achievements
@@ -147,7 +149,12 @@ Radiation Biology of EPR Oxygen Images (NIH, R01 CA98575)
 Very Low Frequency EPR Imaging for In Vivo Physiology (NIH/NIBIB, P41 EB002034-15)
 
 2010-2013  
-Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2010-2013, 60 303)
+Stable bacteriochlorin – possibilities in infra-red chemistry (ERA Chemistry 2010-2013, 60 303)  
+
+### Other grants:
+
+2026-2029  
+Project Coordinator at Jagiellonian University — “Małopolska. Więcej wiem” (“Małopolska: Knowing More”), an educational project co-funded by the European Union through the European Social Fund Plus (FEMP.06.28-IP.01-1594/24)   
 
 ## 🤚 Professional activities:
 
@@ -167,7 +174,7 @@ Nationwide Interdisciplinary Student Conference "Man in the Universe". Around th
 2024 - present    
 coordinator of the Faculty of Biochemistry, Biophysics and Biotechnology of the Jagiellonian University for cooperation with Cogiteon  
 
-2018 - 2024   
+2018 - 2024   and 2026 - present
 organizer of Scientists’ Night in Malopolska – a science popularizing event open to public (a few hundred attendants)
 
 2021 - 2024    
@@ -177,6 +184,10 @@ member of the Faculty secondary school teaching program (Malopolska Educational 
 main coordinator on the behalf of the Faculty for Festival of Science and Art in Krakow – a popularizing science event open to general public 
 
 ### Oral presentations:
+- 6th Jagiellonian Symposium on Advances in Particle Physics and Medicine (JS2026): AI-Enhanced In Vitro and In Vivo Imaging of Preclinical Cancer Models, (7 July 2026, Krakow)
+
+- 11th International Conference on Information Technology in Biomedicine (ITIB 2026): *From 2D to 3D: Automated Ultrasound Segmentation and Cross-Sectional Validation in Murine Tumor Models*, (22 June 2026, Korczyce)
+
 - The 63rd Annual Rocky Mountain Conference on Magnetic Resonance (RMCMR), 45th EPR Symposium: *Tumor Oxygenation Dynamics in Murine Orthotopic Pancreatic Cancer: Insights from in vivo Multimodal Therapy*, (August 4-8, 2024, Copper Mountain, Utah, USA), **selected**
 
 - Gliwice Scientific Meeting: *Tumor hypoxia imaging*, (21-22 Nov 2024), **invited**  
