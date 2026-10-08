@@ -191,23 +191,23 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 
 - 11th International Conference on Information Technology in Biomedicine (ITIB 2026): *From 2D to 3D: Automated Ultrasound Segmentation and Cross-Sectional Validation in Murine Tumor Models*, (22 June 2026, Korczyce)
 
--EPR krakow 
+- XIIIth International Workshop on EPR in Biology and Medicine: Ultrasound–EPR oxygen imaging in small-animal oncology: progress and next steps, (13 October 2025, Kraków, Poland)  
 
 - The 63rd Annual Rocky Mountain Conference on Magnetic Resonance (RMCMR), 45th EPR Symposium: *Tumor Oxygenation Dynamics in Murine Orthotopic Pancreatic Cancer: Insights from in vivo Multimodal Therapy*, (August 4-8, 2024, Copper Mountain, Utah, USA), **selected**
 
 - Gliwice Scientific Meeting: *Tumor hypoxia imaging*, (21-22 Nov 2024), **invited**  
 
--  JS2024: 5th Jagiellonian Symposium on Advances in Particle Physics and Medicine: *Design, Synthesis, and Evaluation of Novel Gold Nanorod-Based Theranostic Agents for Anticancer Therapy*, (7.07.2024, Kraków), **selected**
+-  JS2024: 5th Jagiellonian Symposium on Advances in Particle Physics and Medicine: *Design, Synthesis, and Evaluation of Novel Gold Nanorod-Based Theranostic Agents for Anticancer Therapy*, (7.07.2024, Kraków), **invited**
  
 - Chemistry towards Biology: *Advanced Gold Nanorod-Based Theranostics: A Multimodal Approach to Combat Pancreatic Ductal Adenocarcinoma*, (1-4 July 2024, Kraków), **selected**  
   
-- 51th Winter School of the Faculty of Biochemistry, Biophysics and Biotechnology: *Department of Biophysics and Cancer Biology: Tumor microenvironment studies* (oral presentation - team)  
+- 51th Winter School of the Faculty of Biochemistry, Biophysics and Biotechnology: *Department of Biophysics and Cancer Biology: Tumor microenvironment studies*, (7 February 2024), (oral presentation - team)  
   
 - EPR 2023: International Conference on EPR Spectroscopy and Imaging of Biological Systems: *Oxygen partial pressure dynamic as a marker of chemotherapy efficiency – in vivo study on OxyChip and murine pancreatic cancer*, (24.05.2023), **selected**  
 
 - XIIth EPR Workshop, Krakow, Poland: *Hypoxia evaluation during development of Ductal Carcinoma In Situ (DCIS) in mice by Electron Paramagnetic Resonance Imaging*, (10.10.2022)
 
-- XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: *Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro*, (12.02.2021)
+- XLVIIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting: *Calcitriol and hyperthermia treatment combined with chemotherapy against mouse and human pancreatic cancer in vitro*, (12.02.2021)
 
 - XXV EFMC International Symposium on Medicinal Chemistry, Ljubljana, Slovenia: *Biotransport and biodistribution of [60]fullerene derivative in murine orthotopic model of breast adenocarcinoma modulated by non-invasive hyperthermia*, (2-6.09.2018), **selected**
 
@@ -215,11 +215,11 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 
 - Center for EPR Imaging In Vivo Physiology, The University of Chicago, Chicago, USA: *O2 image-guided radiation therapy, Ductal oxygenation with EPR imaging, Beyond Cancer: Approaches to brain imaging* (04.30-05.01.2015)
 
-- EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: *Biomarkers after Bacteriohlorin-based Photodynamic Therapy against Cancer (05.7-11.2014)*, **selected**
+- EFMC-ISMC 2014, XXIII International Symposium on Medicinal Chemistry, Lizboa, Portugal: *Biomarkers after Bacteriochlorin-based Photodynamic Therapy against Cancer (05.7-11.2014)*, **selected**
 
 - The 14th World Congress of The International Photodynamic Association, Seul, South Korea: Obliteration or normalization of the blood vessels in murine tumors after F2BMet-PDT (05.28-31.2013), **selected**
 
-- LXth Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: *F2BMet-PDT effects on tumor vasculature* (02.16-21.2013)
+- 40th Jubilee Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, Zakopane, Poland: *F2BMet-PDT effects on tumor vasculature* (02.16-21.2013)
 
 - 9th International Symposium on Photodynamic Therapy and Photodiagnosis in Clinical Practice and 4th International Meeting of the European Platform for Photodynamic Medicine, Brixen/Bressanone, Italy: *Quantitiv measurements of phototherapeutic response of murine tumor vessel* (10.16-20. 2012)
 
