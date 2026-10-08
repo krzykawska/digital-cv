@@ -160,6 +160,9 @@ Project Coordinator at Jagiellonian University — “Małopolska. Więcej wiem�
 
 ### Organisation of scientyfic meetings
 
+13-16.10.2026
+XIIIth International EPR Workshop, Krakow, around 120 participants
+
 10-12.02.2021    
 XLVIIth Winter School of Faculty of Biochemistry, Biophysic and Biotechnology, Jagiellonian University, online meeting, around 70 participants
 
@@ -187,6 +190,8 @@ main coordinator on the behalf of the Faculty for Festival of Science and Art in
 - 6th Jagiellonian Symposium on Advances in Particle Physics and Medicine (JS2026): AI-Enhanced In Vitro and In Vivo Imaging of Preclinical Cancer Models, (7 July 2026, Krakow)
 
 - 11th International Conference on Information Technology in Biomedicine (ITIB 2026): *From 2D to 3D: Automated Ultrasound Segmentation and Cross-Sectional Validation in Murine Tumor Models*, (22 June 2026, Korczyce)
+
+-EPR krakow 
 
 - The 63rd Annual Rocky Mountain Conference on Magnetic Resonance (RMCMR), 45th EPR Symposium: *Tumor Oxygenation Dynamics in Murine Orthotopic Pancreatic Cancer: Insights from in vivo Multimodal Therapy*, (August 4-8, 2024, Copper Mountain, Utah, USA), **selected**
 
